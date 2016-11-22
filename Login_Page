@@ -56,7 +56,7 @@ border:2px solid #000000;
     </div>
 	<div class="container-fluid">
   <div class="row">
-    <div class="col-lg-3 col-centered table-bordered ">
+    <div class="col-lg-4 col-centered table-bordered ">
       <div class="wrath-content-box"> <span>Login</span> </div>
       <div class="wrath-content-box">
         <div class="form-group">
