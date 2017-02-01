@@ -1,2 +1,3 @@
-# gamefication_theme
-Layout do Gamefication da Recode
+# Recode Jr
+
+Projeto para desenvolvimento do projeto Gamefication.
